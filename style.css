@@ -1,0 +1,87 @@
+body {
+    background-image:url("ee.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+label {
+    color: rgb(122, 34, 122) !important;
+    font-size: 20px !important;
+    text-align: justify-all !important;
+    font-family: 'Merienda', cursive !important;
+    margin-left:200px;
+    margin-right:200px;
+}
+
+h1 {
+    color:rgb(122, 34, 122) !important;
+    font-family: 'Sacramento', cursive!important;
+    font-size: 70px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+
+#main {
+    width: 425px;
+    height: 550px;
+    border-style: solid;
+    border-width:12px;
+    border-color: white; 
+    padding:10px; 
+}
+p{
+    font-family: 'Yatra One', cursive !important;
+    color: rgb(122, 34, 122) !important;
+    font-size: 20px;
+    text-align: justify-all;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+h2 {
+    color: rgb(122, 34, 122) !important;
+    font-family: 'Sacramento', cursive !important;
+    font-size: 70px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+h4{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 35px !important; 
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#one{
+    width:200px;
+    height:550px
+}
+#two{
+    width:200px;
+    height:550px
+}
+#i{
+    font-style: italic;
+    }
+#d{
+    font-style: italic;
+}
+#k{
+    font-style: italic;
+}
+#h{
+    font-style: italic;
+}
+h3{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Sacramento', cursive !important;
+    font-size: 35px !important; 
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#gh{
+    color: rgb(122, 34, 122) !important;
+    font-family: 'Sacramento', cursive !important;
+    font-size: 63px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
