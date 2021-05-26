@@ -6,7 +6,7 @@ body {
 
 label {
     color: rgb(122, 34, 122) !important;
-    font-size: 20px !important;
+    font-size: 30px !important;
     text-align: justify-all !important;
     font-family: 'Merienda', cursive !important;
     margin-left:200px;
@@ -32,7 +32,7 @@ h1 {
 p{
     font-family: 'Yatra One', cursive !important;
     color: rgb(122, 34, 122) !important;
-    font-size: 20px;
+    font-size: 30px;
     text-align: justify-all;
     margin-left:200px !important;
     margin-right:200px !important;
