@@ -22,11 +22,12 @@ h1 {
 }
 
 #main {
+    margin-top:8px;
     width: 425px;
     height: 550px;
     border-style: solid;
     border-width:12px;
-    border-color: white; 
+    border-color:pink; 
     padding:10px; 
 }
 p{
@@ -44,14 +45,105 @@ h2 {
     margin-left:200px !important;
     margin-right:200px !important;
 }
-h4{
+#visual_1{
     color: rgb(122, 34, 122) !important;       
     font-family: 'Cookie', cursive !important;
-    font-size: 35px !important; 
+    font-size: 50px !important;
     margin-left:200px !important;
     margin-right:200px !important;
 }
-#one{
+#visual_2{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_3{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_4{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_5{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_6{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_7{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_8{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_9{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_10{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_11{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_12{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+#visual_13{
+    color: rgb(122, 34, 122) !important;       
+    font-family: 'Cookie', cursive !important;
+    font-size: 50px !important;
+    margin-left:200px !important;
+    margin-right:200px !important;
+}
+    #visual_14{
+        color: rgb(122, 34, 122) !important;       
+        font-family: 'Cookie', cursive !important;
+        font-size: 50px !important;
+        margin-left:200px !important;
+        margin-right:200px !important;
+    }  
+  #one{
     width:200px;
     height:550px
 }
